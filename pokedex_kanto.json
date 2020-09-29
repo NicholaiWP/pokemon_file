@@ -3,6 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "Bulbasaur",
+    "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger. While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "type": [
       "Grass",
