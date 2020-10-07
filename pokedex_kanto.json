@@ -4030,7 +4030,7 @@
     "num": "144",
     "name": "Articuno",
     "description": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
-    "legendary": true
+    "legendary": true,
     "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
     "type": [
       "Ice",
@@ -4055,7 +4055,7 @@
     "num": "145",
     "name": "Zapdos",
     "description": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
-    "legendary": true
+    "legendary": true,
     "img": "http://www.serebii.net/pokemongo/pokemon/145.png",
     "type": [
       "Electric",
@@ -4078,7 +4078,7 @@
     "num": "146",
     "name": "Moltres",
     "description": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red.",
-    "legendary": true
+    "legendary": true,
     "img": "http://www.serebii.net/pokemongo/pokemon/146.png",
     "type": [
       "Fire",
@@ -4197,7 +4197,7 @@
     "num": "150",
     "name": "Mewtwo",
     "description": "Mewtwo was artificially created from Mew's dna by scientists in a laboraty.",
-    "legendary": true
+    "legendary": true,
     "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
     "type": [
       "Psychic"
@@ -4220,7 +4220,7 @@
     "num": "151",
     "name": "Mew",
     "description": "Mew is rarely observed as it has the power to transform into any Pokémon",
-    "legendary": true
+    "legendary": true,
     "img": "http://www.serebii.net/pokemongo/pokemon/151.png",
     "type": [
       "Psychic"
